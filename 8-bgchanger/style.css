@@ -1,0 +1,35 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.yellow{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: 1px solid black;
+}
+.blue{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: 1px solid black;
+}
+.red{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: 1px solid black;
+}
+.green{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border: 1px solid black;
+}
+
+.middle{
+    margin-left: 290px;
+}
